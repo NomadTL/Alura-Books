@@ -1,28 +1,24 @@
-🚧 Projeto em Construção 🚧
-Bem-vindo(a) ao repositório!
+# Projeto Frontend - Layout Responsivo com CSS Customizado
 
-Este projeto ainda está em fase de desenvolvimento. Em breve, mais funcionalidades, conteúdo e estrutura serão adicionados.
+Este projeto consiste em um layout frontend responsivo desenvolvido com HTML e CSS puro, utilizando variáveis CSS para cores e fontes, além de técnicas modernas como flexbox, media queries e personalização visual detalhada para diferentes componentes da interface.
 
-📌 Status
-⚠️ Projeto em construção
-Ainda não está finalizado nem pronto para uso em produção.
+---
 
-📁 Estrutura atual
-Até o momento, este repositório contém os arquivos iniciais de desenvolvimento. A organização, funcionalidades e demais recursos estão sujeitos a mudanças.
+## Descrição
 
-📅 Próximos Passos
-Definição da estrutura principal
+O objetivo deste projeto é criar uma interface visualmente agradável, responsiva e funcional para páginas web, contendo:
 
-Implementação das funcionalidades
+- Banner com pesquisa centralizada e responsiva.
+- Carrossel (slider) de cards com imagens, textos e botões estilizados.
+- Seção de contato com design clean e elementos interativos.
+- Menu hamburger para dispositivos móveis e menu horizontal em telas maiores.
+- Rodapé com listas de links e responsividade adequada.
+- Seção de tópicos destacados com botões chamativos e responsivos.
 
-Ajustes visuais e responsividade
+---
 
-Documentação detalhada
+## Tecnologias utilizadas
 
-📢 Aviso
-Este projeto pode apresentar falhas ou comportamentos inesperados durante esta fase. Por favor, aguarde atualizações.
-
-👨‍💻 Desenvolvedor
-Feito por Thiago Lima
-📧 thiagommlima2702@gmail.com
-🔗 www.linkedin.com/in/thiago-lima-53105a2b4
+- HTML5
+- CSS3 (Flexbox, Media Queries, Variáveis CSS)
+- [Swiper.js](https://swiperjs.com/) para o carrossel (se usado no projeto)
